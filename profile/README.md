@@ -15,7 +15,7 @@ probabilistic models) or user input
 
 ## Run & Build the Project :
 
-- [Project Docker](https://github.com/ESIR2-PROJET-KEOLIS/global)
+- [Project Docker](https://github.com/ESIR2-PROJET-KEOLIS/prod)
 
 ## Team
 
