@@ -17,19 +17,11 @@ probabilistic models) or user input
 
 - [Project Docker](https://github.com/ESIR2-PROJET-KEOLIS/global)
 
-## Documents
+## Team
 
-- [Présentation KEOLIS](https://melvinmathurin.atlassian.net/l/cp/wqjbm3AA)
-- [Analysis Report](https://melvinmathurin.atlassian.net/l/cp/rHhTqytp)
-- [Architecture Document](https://melvinmathurin.atlassian.net/l/cp/58NX8pCY)
-- [Design Document](https://melvinmathurin.atlassian.net/l/cp/oa9R6CLQ)
-- [Project Management Report](https://melvinmathurin.atlassian.net/l/cp/GTRtJUGW)
-
-*Nécessite un compte gratuit Confluence pour y accéder
-
-### Sprints
-
-- [Sprint 0](https://melvinmathurin.atlassian.net/l/cp/TYXgTVRv)
-- [Sprint 1](https://melvinmathurin.atlassian.net/l/cp/jWJxxaxn)
-
-*Nécessite un compte gratuit Confluence pour y accéder
+- [Melvin Mathurin](https://github.com/ghost-hikaru)
+- [Yann Paillard](https://github.com/Payll)
+- [Romain Briend](https://github.com/yami2200)
+- [Thomas Le Tarnec](https://github.com/Klemph)
+- [Valère Billaud](https://github.com/Marcsept)
+- [Yazid Benjamaa](https://github.com/Xacone)
